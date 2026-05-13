@@ -93,3 +93,4 @@ python sgd_guard.py --data_path <your_data_path> --output_dir <output_path>
 | 2 | `siir_inference.py` | Build feature gallery |
 | 3 | `train_lora.py` | Fine-tune diffusion purifier with LoRA |
 | 4 | `sgd_guard.py` | Run SGD-Guard protection |
+
