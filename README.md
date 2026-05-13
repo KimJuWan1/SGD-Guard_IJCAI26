@@ -1,5 +1,6 @@
 # Robust, Generalizable Proactive Face-swapping Defense via Semantic Gradient Divergence
-# S. H. Back, D. H. Ki, J. W. Kim, and S. B. Yoo*, "Robust, Generalizable Proactive Face-swapping Defense via Semantic Gradient Divergence," Accepted to Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI), Aug. 2026.
+
+###S. H. Back, D. H. Ki, J. W. Kim, and S. B. Yoo*, "Robust, Generalizable Proactive Face-swapping Defense via Semantic Gradient Divergence," Accepted to Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI), Aug. 2026.
 
 ## Getting Started
 ### Prerequisites
